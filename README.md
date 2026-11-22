@@ -1,0 +1,1 @@
+# rpm3-color-configurator
